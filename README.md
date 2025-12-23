@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on company projects, as well my private projects<br>🌱 I’m currently learning almost all Javascript frameworks<br>⚡ Happy coding!
+🔭 Working for food
 
 
 ## 🌐 Socials:
