@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Senior Front End Developer with 6+ years of experience building enterprise web applications in banking, fintech, and insurance industries. Experienced in developing customer-facing applications, administrative dashboards, and business-critical systems using Vue.js, React.js, Next.js, JavaScript, and TypeScript.
+🔭 Front End Developer with 6+ years of experience building enterprise web applications in banking, fintech, and insurance industries. Experienced in developing customer-facing applications, administrative dashboards, and business-critical systems using Vue.js, React.js, Next.js, JavaScript, and TypeScript.
 
 Strong experience collaborating with business users, product owners, designers, QA engineers, and backend developers throughout the software development lifecycle. Skilled in frontend architecture, reusable component development, code reviews, production support, requirement analysis, and Agile software delivery.
 
